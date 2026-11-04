@@ -1,0 +1,1 @@
+Hi! I’m Daniel, the creator and owner of Gecko Corp and Gecko 1.5 GNU/Linux. I’m still a minor and just starting out in this field; I’m not much of a programmer, and I’m new to GitHub. I hope you find my Linux distribution useful! Bye! :)
